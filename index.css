@@ -1,0 +1,83 @@
+body {
+    background-color: rgba(37, 149, 168, 0.137);
+}
+
+.box {
+    width: 600px;
+    height: 440px;
+    margin: 160px auto;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+
+.center {
+    margin-left: 260px;
+}
+
+.input1 {
+    width: 360px;
+    height: 40px;
+    border: 1px solid #dbdbdb;
+    outline: none;
+    font-size: 20px;
+    text-indent: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 14px;
+    display: inline-block;
+}
+
+.sub {
+    position: relative;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid rgb(60, 58, 66);
+    color: rgba(3, 32, 39, 0.438);
+    visibility: visible;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 268px;
+}
+
+.sex {
+    width: 366px;
+    height: 40px;
+    border: 1px solid #dbdbdb;
+    outline: none;
+    font-size: 20px;
+    text-indent: 10px;
+    display: inline-block;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.pst1 {
+    margin-left: 92px;
+}
+
+.pst2 {
+    margin-left: 94px;
+}
+
+.pst3 {
+    margin-left: 15px;
+}
+
+.pst4 {
+    margin-left: 94px;
+}
+
+.pst5 {
+    margin-left: 16px;
+}
